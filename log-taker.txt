@@ -2648,3 +2648,12 @@
 4/1/2025 | 12:38:01 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/1/2025 | 12:38:01 PM | INFO | Trying to activate mining on-chain for wallet: 0x7480B9f8fE42C397e1e7a3B0f0843762752741C3 
 4/1/2025 | 12:38:14 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x97d91cf6b27abafece666d16dd61976b979d599bedfc5bb41b133ffa7d889470 
+4/1/2025 | 4:22:18 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/1/2025 | 4:22:19 PM | INFO | Start process for wallet 0x7480B9f8fE42C397e1e7a3B0f0843762752741C3 
+4/1/2025 | 4:22:19 PM | INFO | Trying To Login for wallet: 0x7480B9f8fE42C397e1e7a3B0f0843762752741C3 
+4/1/2025 | 4:22:20 PM | INFO | Login successful... 
+4/1/2025 | 4:22:20 PM | INFO | Trying to check user info... 
+4/1/2025 | 4:22:21 PM | INFO | User ID: 102665165 | Twitter: @ranisalestari | Total Points: 1008000 
+4/1/2025 | 4:22:21 PM | INFO | Trying to check user miner status... 
+4/1/2025 | 4:22:22 PM | INFO | Last mining time: 4/1/2025, 12:38:09 PM
+4/1/2025 | 4:22:22 PM | WARN | Mining already started, next mining time is: 4/2/2025, 12:38:09 PM

@@ -5048,3 +5048,12 @@
 5/13/2025 | 12:40:08 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
 5/13/2025 | 12:40:08 PM | INFO | Trying to activate mining on-chain for wallet: 0x7480B9f8fE42C397e1e7a3B0f0843762752741C3 
 5/13/2025 | 12:41:08 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x9ad2e336bd5212248680a74045941e006f596110740fc1809f2326d027b23d30 
+5/13/2025 | 4:24:54 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 4:24:54 PM | INFO | Start process for wallet 0x7480B9f8fE42C397e1e7a3B0f0843762752741C3 
+5/13/2025 | 4:24:55 PM | INFO | Trying To Login for wallet: 0x7480B9f8fE42C397e1e7a3B0f0843762752741C3 
+5/13/2025 | 4:24:56 PM | INFO | Login successful... 
+5/13/2025 | 4:24:56 PM | INFO | Trying to check user info... 
+5/13/2025 | 4:24:56 PM | INFO | User ID: 102665165 | Twitter: @ranisalestari | Total Points: 1896000 
+5/13/2025 | 4:24:56 PM | INFO | Trying to check user miner status... 
+5/13/2025 | 4:24:58 PM | INFO | Last mining time: 5/13/2025, 12:40:57 PM
+5/13/2025 | 4:24:58 PM | WARN | Mining already started, next mining time is: 5/14/2025, 12:40:57 PM
